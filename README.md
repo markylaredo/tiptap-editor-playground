@@ -1,6 +1,11 @@
-# Nuxt Minimal Starter
+# Tiptap Editor Playground
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This repository serves as a playground to explore, experiment, and demonstrate the features of the [Tiptap Editor](https://tiptap.dev/) using a Nuxt.js framework. It provides a minimal setup for building rich-text editing interfaces with Tiptap and Vue.
+
+## Features
+- Rich-text editing powered by Tiptap.
+- Nuxt.js integration for seamless server-side rendering and development.
+- Modular and extensible editor setup for custom use cases.
 
 ## Setup
 
@@ -72,4 +77,12 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Learn More
+
+- [Tiptap Documentation](https://tiptap.dev/) - Learn more about Tiptap and its features.
+- [Nuxt Documentation](https://nuxt.com/docs/getting-started/introduction) - Explore Nuxt.js for server-side rendering and development.
+- [Deployment Documentation](https://nuxt.com/docs/getting-started/deployment) - Tips on deploying your Nuxt application.
+
+---
+
+Feel free to contribute and share your ideas!
